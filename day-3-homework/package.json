@@ -1,0 +1,16 @@
+{
+  "name": "@luongduytoan/web3",
+  "version": "1.0.0",
+  "description": "Bài tập buổi 3",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Karuizawa",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

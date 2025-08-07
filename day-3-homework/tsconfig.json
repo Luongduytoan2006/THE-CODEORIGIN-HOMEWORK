@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "esnext",
+    "baseUrl": "./src", 
+    "outDir": "./dist",
+    "esModuleInterop": true
+  }
+}

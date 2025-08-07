@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@luongduytoan/utils':
+        specifier: ^1.0.4
+        version: 1.0.4
+
+packages:
+
+  '@luongduytoan/utils@1.0.4':
+    resolution: {integrity: sha512-z26ZLvXJpEp9vUr2dp74IVeeArZd7Evs1/4CJGU6a6hXLONJmgvTBj0UO7RIYHPA1YEL01eF6RaJazfFfdqMcQ==}
+
+snapshots:
+
+  '@luongduytoan/utils@1.0.4': {}
