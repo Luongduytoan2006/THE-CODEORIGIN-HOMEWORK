@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
-    "module": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
     "target": "esnext",
-    "baseUrl": "./src", 
+    "baseUrl": "./src",
     "outDir": "./dist",
     "esModuleInterop": true
   }
